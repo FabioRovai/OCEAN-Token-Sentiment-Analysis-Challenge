@@ -1,0 +1,54 @@
+﻿Methodology
+The data included the following variables:
+
+
+a) Tweets: The total number of tweets related to $OCEAN under consideration.
+b) Likes: The total number of likes received on tweets related to $OCEAN.
+c) Retweets: The total number of retweets received on tweets related to $OCEAN.
+d) Number of individuals tweeting: The count of unique individuals who posted tweets related to $OCEAN.
+e) Influential tweets: The number of tweets from verified or influential accounts related to $OCEAN.
+f) Sentiment: A measure of sentiment derived from the content of the tweets, indicating whether they were positive, negative, or neutral.
+g) $OCEAN price: The price of the $OCEAN during the analyzed period.
+
+
+Correlation coefficients were calculated to quantify the relationship between the social media metrics and $OCEAN price. The correlation coefficient ranges from -1 to 1, where -1 indicates a perfect negative correlation, 0 indicates no correlation, and 1 indicates a perfect positive correlation.
+
+
+Results
+The following correlation coefficients were obtained for the analyzed variables:
+Correlation between tweets and $OCEAN price: 0.4448
+Correlation between number of likes and $OCEAN price: 0.6239
+Correlation between number of retweets and $OCEAN price: 0.4609
+Correlation between number of individuals tweeting and $OCEAN price: -0.3645
+Correlation between influential tweets and $OCEAN price: 0.4609
+Correlation between sentiment and $OCEAN price: 0.0149
+
+
+Discussion
+2.1 Correlation between tweets and $OCEAN price
+The positive correlation coefficient of 0.4448 indicates a moderate relationship between the number of tweets and $OCEAN prices. This suggests that there may be a connection between the level of online discussion or attention $OCEAN receives and its price movement.
+
+
+2.2 Correlation between number of likes and $OCEAN price
+The relatively high correlation coefficient of 0.6239 suggests a stronger relationship between the number of likes and $OCEAN prices. This indicates that higher levels of engagement, as measured by likes, could potentially have a more significant impact on $OCEAN price movements.
+
+
+2.3 Correlation between number of retweets and $OCEAN price
+Similarly to the correlation between tweets and $OCEAN price, the correlation coefficient of 0.4609 indicates a moderate positive relationship between the number of retweets and $OCEAN prices. This suggests that the extent to which tweets are shared can influence $OCEAN price movements.
+
+
+2.4 Correlation between number of individuals tweeting and $OCEAN price
+The negative correlation coefficient of -0.3645 suggests a weak inverse relationship between the number of individuals tweeting and $OCEAN prices. This implies that a higher number of unique individuals posting tweets may not necessarily indicate a positive impact on $OCEAN prices.
+
+
+2.5 Correlation between influential tweets and $OCEAN price
+The correlation coefficient of 0.4609 indicates a moderate positive relationship between influential tweets and $OCEAN prices. This suggests that tweets from verified or influential accounts may have a certain degree of impact on $OCEAN price movements.
+
+
+2.6 Correlation between sentiment and $OCEAN price
+The low correlation coefficient of 0.0149 suggests a minimal relationship between sentiment and $OCEAN prices. This implies that the overall sentiment expressed in tweets (positive, negative, or neutral) may not be a reliable predictor of $OCEAN price movements.
+
+
+Conclusion
+Based on the analysis, it can be concluded that social media metrics such as the number of tweets, likes, retweets, and influential tweets exhibit varying degrees of correlation with $OCEAN prices. The number of likes and the number of retweets show relatively stronger correlations, indicating a potentially more influential role in $OCEAN market trends.
+However, it is important to note that correlation does not imply causation. While these correlations provide valuable insights, additional research and analysis are necessary to understand the underlying mechanisms and establish causality between social media metrics and $OCEAN price movements.
